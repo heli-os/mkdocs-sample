@@ -1,7 +1,7 @@
 ---
 title: 핸즈온. 쿠버네티스 환경 구성(cloud) - AWS EKS
 description: Amazon EKS로 쿠버네티스 환경을 구성하고 애플리케이션을 배포 해보는 실습
-image: https://raw.githubusercontent.com/cloudacode/hello-kubernetes/main/docs/assets/kubernetes-school.png
+image: https://raw.githubusercontent.com/cloudacode/mkdocs-sample/main/docs/assets/kubernetes-school.png
 ---
 
 # 핸즈온. 쿠버네티스 환경 구성(cloud) - AWS EKS

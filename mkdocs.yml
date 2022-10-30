@@ -1,6 +1,6 @@
 # Project information
 site_name: site_name
-site_url: https://heli-os.github.io/mkdocs-sample
+site_url: https://docs.dataportal.kr
 site_author: sun@dataportal.kr
 site_description: >-
   first
@@ -43,13 +43,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - 1. Get started:
-    - hello-kubernetes/section01/what-is-container.md
-    - hello-kubernetes/section01/what-is-kubernetes.md
-    - hello-kubernetes/section01/what-is-helm.md
+    - mkdocs-sample/section01/what-is-container.md
+    - mkdocs-sample/section01/what-is-kubernetes.md
+    - mkdocs-sample/section01/what-is-helm.md
     - 핸즈온 실습:
-      - hello-kubernetes/section01/handson/setup-local-k8s-kind.md
-      - hello-kubernetes/section01/handson/setup-cloud-k8s-eks.md
-      - hello-kubernetes/section01/handson/setup-redis-via-helm.md
+      - mkdocs-sample/section01/handson/setup-local-k8s-kind.md
+      - mkdocs-sample/section01/handson/setup-cloud-k8s-eks.md
+      - mkdocs-sample/section01/handson/setup-redis-via-helm.md
   - 외부 링크:
     - Blog ⧉: https://medium.com/@cloudacode
     - Youtube ⧉: https://www.youtube.com/channel/UCw46J_QQ3-HrjPsSsuOSDdQ
