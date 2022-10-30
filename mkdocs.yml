@@ -1,0 +1,55 @@
+# Project information
+site_name: site_name
+site_url: https://heli-os.github.io/mkdocs-sample
+site_author: sun@dataportal.kr
+site_description: >-
+  first
+  second
+  ...
+# Repository
+repo_name: heli-os/mkdocs-sample
+repo_url: https://github.com/heli-os/mkdocs-sample
+edit_uri: ""
+
+# Google Analytics
+extra:
+  analytics:
+    provider: google
+    property: -
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/application-brackets-outline.png
+  favicon: assets/application-brackets-black.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - tables
+  - meta
+
+# Page tree
+nav:
+  - Home: index.md
+  - 1. Get started:
+    - hello-kubernetes/section01/what-is-container.md
+    - hello-kubernetes/section01/what-is-kubernetes.md
+    - hello-kubernetes/section01/what-is-helm.md
+    - 핸즈온 실습:
+      - hello-kubernetes/section01/handson/setup-local-k8s-kind.md
+      - hello-kubernetes/section01/handson/setup-cloud-k8s-eks.md
+      - hello-kubernetes/section01/handson/setup-redis-via-helm.md
+  - 외부 링크:
+    - Blog ⧉: https://medium.com/@cloudacode
+    - Youtube ⧉: https://www.youtube.com/channel/UCw46J_QQ3-HrjPsSsuOSDdQ
