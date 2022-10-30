@@ -5,7 +5,6 @@ site_author: sun@dataportal.kr
 site_description: >-
   first
   second
-  ...
 # Repository
 repo_name: heli-os/mkdocs-sample
 repo_url: https://github.com/heli-os/mkdocs-sample

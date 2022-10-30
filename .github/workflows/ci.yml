@@ -1,4 +1,4 @@
-name: cloudacode-hello-k8s-ci
+name: mkdocs-sample-ci
 on:
   push:
     branches:
