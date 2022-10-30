@@ -1,7 +1,7 @@
 ---
 title: 핸즈온. Helm으로 Redis Cluster 환경 구성 및 배포
 description: Helm으로 쿠버네티스 환경에 Redis master-replica cluster를 구성 해보는 실습
-image: https://raw.githubusercontent.com/cloudacode/mkdocs-sample/main/docs/assets/kubernetes-school.png
+image: https://raw.githubusercontent.com/heli-os/mkdocs-sample/main/docs/assets/kubernetes-school.png
 ---
 
 # 핸즈온. Helm으로 Redis master-replica cluster 환경 구성 및 배포

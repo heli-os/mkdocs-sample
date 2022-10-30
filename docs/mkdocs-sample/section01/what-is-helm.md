@@ -1,7 +1,7 @@
 ---
 title: 1.3 헬름이란 무엇인가
 description: 헬름은 복잡한 쿠버네티스 애플리케이션을 효과적으로 배포 및 운영을 할 수 있도록 해주는 패키지 관리 도구
-image: https://raw.githubusercontent.com/cloudacode/mkdocs-sample/main/docs/assets/container-run.png
+image: https://raw.githubusercontent.com/heli-os/mkdocs-sample/main/docs/assets/container-run.png
 ---
 
 # 1.3 Helm의 이해
