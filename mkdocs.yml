@@ -15,7 +15,7 @@ edit_uri: ""
 extra:
   analytics:
     provider: google
-    property: -
+    property: test
 
 # Configuration
 theme:
